@@ -1,0 +1,6 @@
+{
+  "github_username": "your-github-username",
+  "github_email": "your-email@example.com",
+  "github_token": "your-github-personal-access-token",
+  "repos_dir": "repos"
+}
